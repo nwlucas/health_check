@@ -52,6 +52,7 @@ require 'health_check/s3_health_check'
 require 'health_check/redis_health_check'
 require 'health_check/sidekiq_health_check'
 require 'health_check/utils'
+require 'health_check/smtp'
 require 'health_check/health_check_controller'
 require 'health_check/health_check_routes'
 
